@@ -7,6 +7,19 @@ d3.json(geoData, function(data) {
     createFeatures(data.features);
 });
 
+  // Set up the legend.
+  var legend = L.control({ position: "bottomright" });
+  legend.onAdd = function() {
+    var div = L.DomUtil.create("div", "info legend");
+    var depth = [-7, 7, 14, 21, 28],
+    let colors = geojson.options.colors;
+    var labels = [];
+  }
+
+
+  for (var i = 0; i < depth.length; i++) {
+  }
+
 function createMap(Earthquakes) {
 
     // Create the tile layer that will be the background of our map.
@@ -37,4 +50,7 @@ function createMap(Earthquakes) {
     L.control.layers(baseMaps, overlayMaps, {
       collapsed: false
     }).addTo(map);
-//   });
+    
+    legend.addTo(map);
+
+  }
