@@ -1,0 +1,301 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+    "generated": 1632958320000,
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+    "title": "USGS All Earthquakes, Past Hour",
+    "status": 200,
+    "api": "1.10.3",
+    "count": 7
+    },
+    "features": [
+    {
+    "type": "Feature",
+    "properties": {
+    "mag": 0.86,
+    "place": "10km NW of The Geysers, CA",
+    "time": 1632958107800,
+    "updated": 1632958203594,
+    "tz": null,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73631186",
+    "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73631186.geojson",
+    "felt": null,
+    "cdi": null,
+    "mmi": null,
+    "alert": null,
+    "status": "automatic",
+    "tsunami": 0,
+    "sig": 11,
+    "net": "nc",
+    "code": "73631186",
+    "ids": ",nc73631186,",
+    "sources": ",nc,",
+    "types": ",nearby-cities,origin,phase-data,",
+    "nst": 15,
+    "dmin": 0.001483,
+    "rms": 0.01,
+    "gap": 108,
+    "magType": "md",
+    "type": "earthquake",
+    "title": "M 0.9 - 10km NW of The Geysers, CA"
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.8365021,
+    38.8373337,
+    1.61
+    ]
+    },
+    "id": "nc73631186"
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "mag": 0.88,
+    "place": "4km NW of The Geysers, CA",
+    "time": 1632957561650,
+    "updated": 1632957658361,
+    "tz": null,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73631181",
+    "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73631181.geojson",
+    "felt": null,
+    "cdi": null,
+    "mmi": null,
+    "alert": null,
+    "status": "automatic",
+    "tsunami": 0,
+    "sig": 12,
+    "net": "nc",
+    "code": "73631181",
+    "ids": ",nc73631181,",
+    "sources": ",nc,",
+    "types": ",nearby-cities,origin,phase-data,",
+    "nst": 19,
+    "dmin": 0.003488,
+    "rms": 0.04,
+    "gap": 58,
+    "magType": "md",
+    "type": "earthquake",
+    "title": "M 0.9 - 4km NW of The Geysers, CA"
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -122.793335,
+    38.8048325,
+    0.28
+    ]
+    },
+    "id": "nc73631181"
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "mag": 2.17,
+    "place": "7km NNW of Pinnacles, CA",
+    "time": 1632956827630,
+    "updated": 1632956923397,
+    "tz": null,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73631176",
+    "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73631176.geojson",
+    "felt": null,
+    "cdi": null,
+    "mmi": null,
+    "alert": null,
+    "status": "automatic",
+    "tsunami": 0,
+    "sig": 72,
+    "net": "nc",
+    "code": "73631176",
+    "ids": ",nc73631176,",
+    "sources": ",nc,",
+    "types": ",nearby-cities,origin,phase-data,",
+    "nst": 17,
+    "dmin": 0.01258,
+    "rms": 0.04,
+    "gap": 147,
+    "magType": "md",
+    "type": "earthquake",
+    "title": "M 2.2 - 7km NNW of Pinnacles, CA"
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -121.1819992,
+    36.5839996,
+    7.62
+    ]
+    },
+    "id": "nc73631176"
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "mag": 2,
+    "place": "63 km WNW of Happy Valley, Alaska",
+    "time": 1632956782708,
+    "updated": 1632956974661,
+    "tz": null,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak021ci7wpa6",
+    "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak021ci7wpa6.geojson",
+    "felt": null,
+    "cdi": null,
+    "mmi": null,
+    "alert": null,
+    "status": "automatic",
+    "tsunami": 0,
+    "sig": 62,
+    "net": "ak",
+    "code": "021ci7wpa6",
+    "ids": ",ak021ci7wpa6,",
+    "sources": ",ak,",
+    "types": ",origin,",
+    "nst": null,
+    "dmin": null,
+    "rms": 0.82,
+    "gap": null,
+    "magType": "ml",
+    "type": "earthquake",
+    "title": "M 2.0 - 63 km WNW of Happy Valley, Alaska"
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -152.823,
+    60.1063,
+    105.3
+    ]
+    },
+    "id": "ak021ci7wpa6"
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "mag": 1.42,
+    "place": "4km NW of Boron, CA",
+    "time": 1632956758900,
+    "updated": 1632956974859,
+    "tz": null,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40059448",
+    "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40059448.geojson",
+    "felt": null,
+    "cdi": null,
+    "mmi": null,
+    "alert": null,
+    "status": "automatic",
+    "tsunami": 0,
+    "sig": 31,
+    "net": "ci",
+    "code": "40059448",
+    "ids": ",ci40059448,",
+    "sources": ",ci,",
+    "types": ",nearby-cities,origin,phase-data,scitech-link,",
+    "nst": 15,
+    "dmin": 0.09555,
+    "rms": 0.25,
+    "gap": 85,
+    "magType": "ml",
+    "type": "quarry blast",
+    "title": "M 1.4 Quarry Blast - 4km NW of Boron, CA"
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -117.6758333,
+    35.0286667,
+    1.77
+    ]
+    },
+    "id": "ci40059448"
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "mag": 2,
+    "place": "1 km SE of Hope, Alaska",
+    "time": 1632956735477,
+    "updated": 1632956974518,
+    "tz": null,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak021ci7wij3",
+    "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak021ci7wij3.geojson",
+    "felt": null,
+    "cdi": null,
+    "mmi": null,
+    "alert": null,
+    "status": "automatic",
+    "tsunami": 0,
+    "sig": 62,
+    "net": "ak",
+    "code": "021ci7wij3",
+    "ids": ",ak021ci7wij3,",
+    "sources": ",ak,",
+    "types": ",origin,",
+    "nst": null,
+    "dmin": null,
+    "rms": 0.84,
+    "gap": null,
+    "magType": "ml",
+    "type": "earthquake",
+    "title": "M 2.0 - 1 km SE of Hope, Alaska"
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -149.6211,
+    60.904,
+    25
+    ]
+    },
+    "id": "ak021ci7wij3"
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "mag": 1.99000001,
+    "place": "3 km ESE of Pāhala, Hawaii",
+    "time": 1632954744050,
+    "updated": 1632954941400,
+    "tz": null,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv72734147",
+    "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv72734147.geojson",
+    "felt": null,
+    "cdi": null,
+    "mmi": null,
+    "alert": null,
+    "status": "automatic",
+    "tsunami": 0,
+    "sig": 61,
+    "net": "hv",
+    "code": "72734147",
+    "ids": ",hv72734147,",
+    "sources": ",hv,",
+    "types": ",origin,phase-data,",
+    "nst": 33,
+    "dmin": null,
+    "rms": 0.150000006,
+    "gap": 194,
+    "magType": "md",
+    "type": "earthquake",
+    "title": "M 2.0 - 3 km ESE of Pāhala, Hawaii"
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -155.449996948242,
+    19.1888332366943,
+    32.2999992370605
+    ]
+    },
+    "id": "hv72734147"
+    }
+    ],
+    "bbox": [
+    -155.44999694824,
+    19.188833236694,
+    0.28,
+    -117.6758333,
+    60.904,
+    105.3
+    ]
+    }
