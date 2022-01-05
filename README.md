@@ -28,3 +28,28 @@ Your Task
 
 Level 1: Basic Visualization
 
+![BasicMap](https://user-images.githubusercontent.com/85724967/148301949-6076a89a-096f-4b22-bdbf-4aa15c40bcd7.png)
+Your first task is to visualize an earthquake data set.
+
+
+1.Get your data set
+![Data](https://user-images.githubusercontent.com/85724967/148301960-9057eaa7-da5c-433d-9227-9cec462a5300.png)
+The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON Feed page and pick a data set to visualize. When you click on a data set, for example "All Earthquakes from the Past 7 Days", you will be given a JSON representation of that data. You will use the URL of this JSON to pull in the data for our visualization.
+![JSON](https://user-images.githubusercontent.com/85724967/148301972-f1f6a266-fb8e-418a-90b2-90d1106c87c8.png)
+2. Import & Visualize the Data
+Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
+
+
+Your data markers should reflect the magnitude of the earthquake by their size and and depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger and earthquakes with greater depth should appear darker in color.
+
+
+HINT: The depth of the earth can be found as the third coordinate for each earthquake.
+
+
+Include popups that provide additional information about the earthquake when a marker is clicked.
+
+
+Create a legend that will provide context for your map data.
+
+
+Your visualization should look something like the map above.
